@@ -11,6 +11,9 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.056696164421737194
+author:
+  name: 'Karl Vavrek, P.E.'
+  email: karl@boldOBLIQUE.com
 name: bold ! TRIAL
 title: Architectural & Structural Design
 description: thoughtful and rigorous design
