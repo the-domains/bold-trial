@@ -1,4 +1,3 @@
-layout_spectrum: 0.056696164421737194
 typography_spectrum: 0.18187523470260203
 color:
   brandStrength: 0.12281552865169942
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.056696164421737194
 name: bold ! TRIAL
 title: Architectural & Structural Design
+description: thoughtful and rigorous design
